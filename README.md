@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Habilidades / Conhecimentos:
+<h1 align="center"> 🚀 Habilidades / Conhecimentos: </h1>
 
 <div align="center">
   
@@ -18,9 +18,9 @@
   
 </div>
 
----
 
-## 🛠️ Ferramentas:
+
+<h2 align="center"> 🛠️ Ferramentas: </h2>
 
 <div align="center">
 
@@ -29,9 +29,11 @@
 
 </div>
 
----
 
-## 💻 Sistema Operacional:
+<br>
+
+
+<h2 align="center"> 💻 Sistema Operacional: </h2>
 
 <div align="center">
 
@@ -39,9 +41,11 @@
 
 </div>
 
----
 
-## 📊 Estatísticas do GitHub:
+<br>
+
+
+<h2 align="center"> 📊 Estatísticas do GitHub: </h2>
 
 <div align="center">
 
@@ -51,9 +55,11 @@
 
 </div>
 
----
 
-## 📞 Contato:
+<br>
+
+
+<h2 align="center"> 📞 Contato: </h2>
 
 <div align="center">
 
